@@ -19,4 +19,6 @@
         <allow-intent href="itms:*" />
         <allow-intent href="itms-apps:*" />
     </platform>
+    <plugin name="cordova-plugin-wkwebview-engine" spec="~1.2.1" />
+    <engine name="ios" spec="~4.5.5" />
 </widget>

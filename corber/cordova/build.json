@@ -1,0 +1,18 @@
+{
+    "ios": {
+        "release": {
+            "buildFlag": [
+                "-UseModernBuildSystem=0"
+            ],
+            "CODE_SIGN_IDENTITY": "iPhone Developer",
+            "CODE_SIGN_IDENTITY[sdk=iphoneos*]": "iPhone Developer"
+        },
+        "debug": {
+            "buildFlag": [
+                "-UseModernBuildSystem=0"
+            ],
+            "CODE_SIGN_IDENTITY": "iPhone Developer",
+            "CODE_SIGN_IDENTITY[sdk=iphoneos*]": "iPhone Developer"
+        }
+    }
+}
